@@ -5,6 +5,8 @@ body {
 #page-header {
 	padding-top: 120px;
     background: linear-gradient(135deg, #edccc7 0%,#a3220e 100%);
+	background-image: url("../img/1.jpg");
+	background-image: url("../img/1.jpg"), linear-gradient(135deg, #edccc7 0%,#a3220e 100%);
 }
 #header-text {
 	color: #fff;
